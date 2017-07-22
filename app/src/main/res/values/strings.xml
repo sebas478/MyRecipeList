@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyRecipeList</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_my_recipe_list">MyRecipeListActivity</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+    <string name="title_activity_recipe_list">RecipeListActivity</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_my_recipe">MyRecipeActivity</string>
+</resources>

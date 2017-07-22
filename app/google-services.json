@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "862937997840",
+    "firebase_url": "https://myrecipes-21348.firebaseio.com",
+    "project_id": "myrecipes-21348",
+    "storage_bucket": "myrecipes-21348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862937997840:android:90a04c7b5ca7be09",
+        "android_client_info": {
+          "package_name": "cl.ramces.myrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862937997840-dpsup2nobpr4shiraearpfejuth175k2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.ramces.myrecipes",
+            "certificate_hash": "33cf74bf97372ea6d84e6e677d2990192b563134"
+          }
+        },
+        {
+          "client_id": "862937997840-nnc7tirg34b1h16dsq2is9vk6ubpcvon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeez5DL2s1xqDjJI_nyNth3y79OAwGIMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862937997840-nnc7tirg34b1h16dsq2is9vk6ubpcvon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862937997840:android:752172438a7f8fcd",
+        "android_client_info": {
+          "package_name": "cl.ramces.myrecipelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862937997840-ad5kehnce4hcrbt10jk9j6ms5t53pi6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.ramces.myrecipelist",
+            "certificate_hash": "33cf74bf97372ea6d84e6e677d2990192b563134"
+          }
+        },
+        {
+          "client_id": "862937997840-nnc7tirg34b1h16dsq2is9vk6ubpcvon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeez5DL2s1xqDjJI_nyNth3y79OAwGIMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862937997840-nnc7tirg34b1h16dsq2is9vk6ubpcvon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
